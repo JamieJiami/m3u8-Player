@@ -3,3 +3,11 @@
 https://live3.tdm.com.mo/ch5/info_ch5.live/chunklist_w245300291.m3u8
 #EXTINF:0,澳視澳門
 https://live3.tdm.com.mo/ch1/ch1.live/chunklist_w2054927578.m3u8
+#EXTINF:0,澳視體育
+https://live3.tdm.com.mo/ch4/sport_ch4.live/chunklist_w1628490617.m3u8
+#EXTINF:0,澳門綜藝
+https://live3.tdm.com.mo/ch6/hd_ch6.live/chunklist_w909632217.m3u8
+#EXTINF:0,澳視葡文
+https://live3.tdm.com.mo/ch2/ch2.live/chunklist_w1188090160.m3u8
+#EXTINF:0,CCTV 1
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210102.m3u8

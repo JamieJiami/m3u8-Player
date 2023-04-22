@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,澳門資訊
-#EXTIMG: https://cdn.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png_origin
+#EXTIMG: https://raw.githubusercontent.com/JamieJiami/m3u8-Player/main/macau_inf.png
 https://live3.tdm.com.mo/ch5/info_ch5.live/chunklist_w245300291.m3u8
 #EXTINF:0,澳視澳門
 #EXTIMG https://cdn.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png_origin

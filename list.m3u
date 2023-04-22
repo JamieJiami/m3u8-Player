@@ -9,5 +9,27 @@ https://live3.tdm.com.mo/ch4/sport_ch4.live/chunklist_w1628490617.m3u8
 https://live3.tdm.com.mo/ch6/hd_ch6.live/chunklist_w909632217.m3u8
 #EXTINF:0,澳視葡文
 https://live3.tdm.com.mo/ch2/ch2.live/chunklist_w1188090160.m3u8
+#EXTINF:0,CCTV 4K
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:0,CCTV 1
 http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210102.m3u8
+#EXTINF:0,CCTV 2
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203602.m3u8
+#EXTINF:0,CCTV 3
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203802.m3u8
+#EXTINF:0,CCTV 4
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+#EXTINF:0,CCTV 5
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205102.m3u8
+#EXTINF:0,CCTV 5+
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
+#EXTINF:0,CCTV 6
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+#EXTINF:0,CCTV 7
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+#EXTINF:0,CCTV 8
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203902.m3u8
+#EXTINF:0,CCTV 9
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499402.m3u8
+#EXTINF:0,CCTV 10
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203502.m3u8

@@ -33,7 +33,7 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央視",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央視",CCTV-6
-https://cntv.sbs/tv?auth=230813&id=cctv6
+https://cntv.sbs/tv/ipv6.php?id=188
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央視",CCTV-7
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央視",CCTV-8
@@ -41,9 +41,9 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央視",CCTV-9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央視",CCTV-10
-https://cntv.sbs/tv?auth=230813&id=cctv10
+https://cntv.sbs/tv/ipv6.php?id=238
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央視",CCTV-11
-https://cntv.sbs/tv?auth=230813&id=cctv11
+https://cntv.sbs/tv/ipv6.php?id=309
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央視",CCTV-12
 https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央視",CCTV-13
@@ -51,12 +51,12 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央視",CCTV-14
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央視",CCTV-15
-https://cntv.sbs/tv?auth=230813&id=cctv15
+https://cntv.sbs/tv/ipv6.php?id=338
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央視",CCTV-16
-https://cntv.sbs/tv?auth=230813&id=cctv16
+https://cntv.sbs/tv/ipv6.php?id=258
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央視",CCTV-16 4K
 https://cntv.sbs/tv?auth=230813&id=cctv164k
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央視",CCTV-17
-https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+https://cntv.sbs/tv/ipv6.php?id=241
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央視",CCTV-4K
 https://cntv.sbs/tv?auth=230813&id=cctv4k

@@ -14,7 +14,7 @@ https://live3.tdm.com.mo/ch3/ch3.live/chunklist_w1317453151.m3u8
 https://live3.tdm.com.mo/tv/ch21.live/chunklist_w862031045.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台(已停止維護)" tvg-logo="http://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
 https://sc2022.stream-link.org/tv2306.php?id=h05
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
 http://107.151.203.111:2209/135/hk.php?id=tvbfct

@@ -13,7 +13,7 @@ https://live3.tdm.com.mo/ch3/ch3.live/chunklist_w1317453151.m3u8
 #EXTINF:-1 tvg-name="澳門立法會直播(TDM)" tvg-logo="https://play-lh.googleusercontent.com/rnhgSMdb6Uoz9f8km5BgdKkCtkejZbfD8lkUpG3aklM0wWkVBpLQcPBqiXd-9RL8wrI=w240-h480-rw" group-title="TDM",澳門立法會直播(TDM)
 https://live3.tdm.com.mo/tv/ch21.live/chunklist_w862031045.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
-https://sc2022.stream-link.org/tv2306.php?id=h04
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
 https://sc2022.stream-link.org/tv2306.php?id=h05
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台

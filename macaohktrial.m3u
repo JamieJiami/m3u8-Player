@@ -17,6 +17,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&ex
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
 https://sc2022.stream-link.org/tv2306.php?id=h05
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153505
+http://107.151.203.111:2209/135/hk.php?id=tvbfct
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
 http://107.167.12.58:27347/livehttpplay?channel_id=30023

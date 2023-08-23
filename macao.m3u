@@ -12,11 +12,3 @@ https://live3.tdm.com.mo/ch6/hd_ch6.live/chunklist_w1060694666.m3u8
 https://live3.tdm.com.mo/ch3/ch3.live/chunklist_w1317453151.m3u8
 #EXTINF:-1 tvg-name="澳門立法會直播(TDM)" tvg-logo="https://play-lh.googleusercontent.com/rnhgSMdb6Uoz9f8km5BgdKkCtkejZbfD8lkUpG3aklM0wWkVBpLQcPBqiXd-9RL8wrI=w240-h480-rw" group-title="TDM",澳門立法會直播(TDM)
 https://live3.tdm.com.mo/tv/ch21.live/chunklist_w862031045.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
-http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台(已停止維護)" tvg-logo="http://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
-http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
-http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70

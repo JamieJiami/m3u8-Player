@@ -18,5 +18,3 @@ http://192.168.101.42/tvbinfo.m3u8
 http://192.168.101.42/tvbfeicui.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
 http://192.168.101.42/tvbj2.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央視",CCTV-10
-http://192.168.101.42/cctv10.m3u8

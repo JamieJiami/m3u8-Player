@@ -1,0 +1,3063 @@
+{
+
+    "cosmetics": {
+
+      "c1": {
+
+        "demand": "N/A",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/wMnFBJk/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Gold",
+
+        "price": "0",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Color",
+
+        "value": "2,500,000",
+
+        "valuehistory": "2500000",
+
+        "valuehistorydate": "11/22/22"
+
+      },
+
+      "c2": {
+
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/ZV7Hh6n/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Vanta Black",
+
+        "price": "0",
+
+        "rarity": "Ultra Rare",
+
+        "trend": "Stable",
+
+        "type": "Color",
+
+        "value": "21,500,000",
+
+        "valuehistory": "22500000 22000000 21500000",
+
+        "valuehistorydate": "1/2/23 5/20/23 8/31/23"
+
+      },
+
+      "r1": {
+
+        "demand": "High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/h8PTLYs/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Void",
+
+        "price": "0",
+
+        "rarity": "Legendary",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "46,000,000",
+
+        "valuehistory": "31250000 32500000 35000000 36250000 36938000 37500000 40000000 41000000 42500000 43000000 45000000 46000000",
+
+        "valuehistorydate": "1/7/23 01/30/23 2/4/23 04/02/23 04/11/23 05/07/23 05/09/23 5/24/23 6/2/23 7/5/23 7/18/23 9/1/23"
+
+      },
+
+      "r10": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/brMFkDB/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Bull",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "2,250,000",
+
+        "valuehistory": "2500000 2250000",
+
+        "valuehistorydate": "5/14/23 7/29/23"
+
+      },
+
+      "r11": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/F5L8YvV/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Nemesis",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "1,000,000",
+
+        "valuehistory": "1250000 1150000 1000000",
+
+        "valuehistorydate": "5/16/23 5/29/23 7/11/23"
+
+      },
+
+      "r2": {
+
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/1dQ5Jm7/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Spinner",
+
+        "price": "0",
+
+        "rarity": "Legendary",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "72,500,000",
+
+        "valuehistory": "62500000 65000000 67500000 72500000 75000000 75000000 77500000 75000000 72500000",
+
+        "valuehistorydate": "1/8/23 01/18/23 1/31/23 03/05/23 03/25/23 03/25/23 04/11/23 7/29/23 9/1/23"
+
+      },
+
+      "r3": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/WPdtLTP/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Hypno",
+
+        "price": "0",
+
+        "rarity": "Ultra Rare",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "7,000,000",
+
+        "valuehistory": "7500000 7250000 7000000 6500000 7000000",
+
+        "valuehistorydate": "1/11/23 05/07/23 5/17/23 6/19/23 6/28/23"
+
+      },
+
+      "r4": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/G0R9QPq/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Icicle",
+
+        "price": "0",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "5,000,000",
+
+        "valuehistory": "5000000",
+
+        "valuehistorydate": "1/11/23"
+
+      },
+
+      "r5": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/s98dd2v/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Brickset",
+
+        "price": "0",
+
+        "rarity": "Ultra Rare",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "6,000,000",
+
+        "valuehistory": "7500000 7000000 6500000 6000000",
+
+        "valuehistorydate": "1/11/23 05/08/23 6/25/23 8/18/23"
+
+      },
+
+      "r6": {
+
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/BcLhT7V/image.png",
+
+        "maxspeed": "none",
+
+        "name": "RTX",
+
+        "price": "0",
+
+        "rarity": "Ultra Rare",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "20,000,000",
+
+        "valuehistory": "18000000 20000000 19500000 20000000",
+
+        "valuehistorydate": "1/20/23 2/4/23 5/20/23 6/11/23"
+
+      },
+
+      "r7": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/cX9L5mg/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Snow Flake",
+
+        "price": "0",
+
+        "rarity": "Ultra Rare",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "7,500,000",
+
+        "valuehistory": "8000000 9000000 8750000 8250000 8000000 7500000",
+
+        "valuehistorydate": "2/7/23 04/11/23 05/09/23 6/22/23 8/5/23 8/30/23"
+
+      },
+
+      "r8": {
+
+        "demand": "Very Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/pX98M5T/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Snow Face",
+
+        "price": "0",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "5,000,000",
+
+        "valuehistory": "7000000 6625000 6250000 6000000 5500000 5000000",
+
+        "valuehistorydate": "2/7/23 3/19/23 5/20/23 5/23/23 8/9/23 8/31/23"
+
+      },
+
+      "r9": {
+
+        "demand": "Very Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/FzMQ44s/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Planetary",
+
+        "price": "0",
+
+        "rarity": "Uncommon",
+
+        "trend": "Stable",
+
+        "type": "Rim",
+
+        "value": "2,500,000",
+
+        "valuehistory": "2000000 2500000 2500000",
+
+        "valuehistorydate": "2/7/23 03/13/23 03/12/23"
+
+      },
+
+      "s1": {
+
+        "demand": "High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/gwHjvnM/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Thrusters",
+
+        "price": "0",
+
+        "rarity": "Legendary",
+
+        "trend": "Stable",
+
+        "type": "Spoiler",
+
+        "value": "43,500,000",
+
+        "valuehistory": "30000000 31250000 34500000 31250000 32500000 32500000 33000000 35000000 36250000 37500000 38500000 38500000 39500000 40000000 41500000 42500000 43500000",
+
+        "valuehistorydate": "1/19/23 01/30/23 02/14/23 02/16/23 03/04/23 03/05/23 03/15/23 03/25/23 05/01/23 5/19/23 5/29/23 6/2/23 6/30/23 7/5/23 7/22/23 8/30/23 9/1/23"
+
+      },
+
+      "s2": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/swxZDGj/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Brickset ",
+
+        "price": "0",
+
+        "rarity": "Legendary",
+
+        "trend": "Stable",
+
+        "type": "Spoiler",
+
+        "value": "10,000,000",
+
+        "valuehistory": "10000000",
+
+        "valuehistorydate": "1/19/23"
+
+      },
+
+      "s3": {
+
+        "demand": "N/A",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/6F5p1xm/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Dual Rockets",
+
+        "price": "0",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Spoiler",
+
+        "value": "2,500,000",
+
+        "valuehistory": "2300000 2500000 2350000 2457000 2500000",
+
+        "valuehistorydate": "1/19/23 2/8/23 04/11/23 04/14/23 05/12/23"
+
+      },
+
+      "s4": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/CH34khX/image.png",
+
+        "maxspeed": "none",
+
+        "name": "2 Billion",
+
+        "price": "0",
+
+        "rarity": "Legendary",
+
+        "trend": "Stable",
+
+        "type": "Spoiler",
+
+        "value": "16,000,000",
+
+        "valuehistory": "17500000 17250000 17000000 16500000 16000000",
+
+        "valuehistorydate": " 5/12/23 6/15/23 6/20/23 7/12/23 7/22/23"
+
+      },
+
+      "s5": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/mtZjqFx/image.png",
+
+        "maxspeed": "none",
+
+        "name": "UFO",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Spoiler",
+
+        "value": "1,250,000",
+
+        "valuehistory": "1250000",
+
+        "valuehistorydate": "5/13/23"
+
+      },
+
+      "s6": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/8m7R7DZ/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Clickbait",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Spoiler",
+
+        "value": "2,500,000",
+
+        "valuehistory": " 2500000",
+
+        "valuehistorydate": " 5/14/23"
+
+      },
+
+      "s7": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/6nzxGn5/image.png",
+
+        "maxspeed": "none",
+
+        "name": "3 Billion",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Spoiler",
+
+        "value": "750,000",
+
+        "valuehistory": " 1000000 825000 750000",
+
+        "valuehistorydate": " 5/14/23 6/19/23 6/24/23"
+
+      },
+
+      "s8": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/fXcCtYx/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Velocity",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Spoiler",
+
+        "value": "2,500,000",
+
+        "valuehistory": " 2500000",
+
+        "valuehistorydate": " 5/16/23"
+
+      },
+
+      "t1": {
+
+        "demand": "Below Average",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/Wk65gyb/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Pixel",
+
+        "price": "0",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "1,250,000",
+
+        "valuehistory": "1250000",
+
+        "valuehistorydate": "11/22/22"
+
+      },
+
+      "t10": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/55SJ9jC/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Armor",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "3,500,000",
+
+        "valuehistory": "3750000 3500000",
+
+        "valuehistorydate": "5/12/23 7/12/23"
+
+      },
+
+      "t11": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/DMxRs15/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Flaming",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "750,000",
+
+        "valuehistory": "750000",
+
+        "valuehistorydate": "5/14/23"
+
+      },
+
+      "t12": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/YbRgnR0/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Wavy",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "750,000",
+
+        "valuehistory": "1000000 750000",
+
+        "valuehistorydate": "5/14/23 9/1/23"
+
+      },
+
+      "t13": {
+
+        "demand": "Low",
+
+        "description": "N/A",
+
+        "image": "https://i.ibb.co/Z1g3zDf/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Gulf",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "500,000",
+
+        "valuehistory": "500000",
+
+        "valuehistorydate": "5/16/23"
+
+      },
+
+      "t2": {
+
+        "demand": "High",
+
+        "description": "",
+
+        "image": "https://media.discordapp.net/attachments/1024772193361604669/1059637405218512966/download_1.png",
+
+        "maxspeed": "none",
+
+        "name": "Checkers",
+
+        "price": "0",
+
+        "rarity": "Legendary",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "35,000,000",
+
+        "valuehistory": "32500000 35000000",
+
+        "valuehistorydate": "1/2/23 02/13/23"
+
+      },
+
+      "t3": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/9T7FyDG/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Snowstorm",
+
+        "price": "0",
+
+        "rarity": "Ultra Rare",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "11,000,000",
+
+        "valuehistory": "13500000 13000000 12000000 11500000 11250000 12000000 11500000 11000000",
+
+        "valuehistorydate": "1/7/23 1/10/23 2/4/23 03/05/23 5/19/23 5/27/23 6/13/23 6/28/23 8/26/23"
+
+      },
+
+      "t4": {
+
+        "demand": "N/A",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/fxQjZkX/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Galactic Carbon",
+
+        "price": "0",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "4,500,000",
+
+        "valuehistory": "5000000 4625000 4500000",
+
+        "valuehistorydate": "1/7/23 04/14/23 05/09/23"
+
+      },
+
+      "t5": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/7Y5THg9/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Blue Pixel",
+
+        "price": "0",
+
+        "rarity": "Low",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "2,500,000",
+
+        "valuehistory": "2500000",
+
+        "valuehistorydate": "1/17/23"
+
+      },
+
+      "t6": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/r0Lcvqk/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Orange Pixel",
+
+        "price": "0",
+
+        "rarity": "Low",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "2,000,000",
+
+        "valuehistory": "2000000 1940000",
+
+        "valuehistorydate": "1/17/23 03/25/23 05/12/23"
+
+      },
+
+      "t7": {
+
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/zsgpJc4/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Drip",
+
+        "price": "0",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "5,625,000",
+
+        "valuehistory": "4000000 5000000 5050000 5220000 5000000 5250000 5500000 5625000",
+
+        "valuehistorydate": "1/20/23 02/13/23 03/10/23 03/28/23 04/11/23 05/08/23 7/7/23 7/22/23"
+
+      },
+
+      "t8": {
+
+        "demand": "N/A",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/7S5gKNP/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Winter Camo",
+
+        "price": "0",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "2,500,000",
+
+        "valuehistory": "2500000",
+
+        "valuehistorydate": "1/22/23"
+
+      },
+
+      "t9": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/tpYytkc/image.png",
+
+        "maxspeed": "none",
+
+        "name": "Fire",
+
+        "price": "Seasonal",
+
+        "rarity": "N/A",
+
+        "trend": "Stable",
+
+        "type": "Texture",
+
+        "value": "6,000,000",
+
+        "valuehistory": " 7500000 7125001 6625000 6500000 6250000 6000000",
+
+        "valuehistorydate": " 03/05/23 03/23/23 05/08/23 5/14/23 7/12/23 9/1/23"
+
+      }
+
+    },
+
+    "vehicles": {
+
+	"s16": {
+
+        	"demand": "Medium",
+
+        	"description": "",
+
+        	"image": "https://static.wikia.nocookie.net/rblx-jailbreak/images/d/d1/PoseidonThumbFix.png",
+
+        	"maxspeed": "223",
+
+        	"name": "Poseidon",
+
+        	"price": "Seasonal",
+
+        	"rarity": "Common",
+
+        	"trend": "Stable",
+
+        	"type": "Vehicle",
+
+       	 "value": "2,500,000",
+
+       	 "valuehistory": "2500000",
+
+       	 "valuehistorydate": "9/9/23"
+
+                   },
+
+
+	"aper": {
+
+        "demand": "Medium/Low",
+
+        "description": "",
+
+        "image": "https://static.wikia.nocookie.net/rblx-jailbreak/images/3/36/Chimera.png",
+
+        "maxspeed": "279",
+
+        "name": "Aperture",
+
+        "price": "899,000",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "3,000,000",
+
+        "valuehistory": "3000000",
+
+        "valuehistorydate": "9/9/23"
+
+      },
+
+	
+	"s17": {
+
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://static.wikia.nocookie.net/rblx-jailbreak/images/f/fa/NEWPower1-Thumb.png",
+
+        "maxspeed": "237",
+
+        "name": "Power-1",
+
+        "price": "Seasonal",
+
+        "rarity": "Common",
+
+        "trend": "Falling",
+
+        "type": "Vehicle",
+
+        "value": "6,000,000",
+
+        "valuehistory": "12000000 6000000",
+
+        "valuehistorydate": "9/1/23 9/7/23"
+
+      },
+
+
+      "v1": {
+
+        "demand": "Very Low",
+
+        "description": "The Brulee, also known as the Bugatti Veyron, is the current fastest vehicle in jailbreak. It is really wanted due to its specifications and being unobtainable. This vehicle was available from June 4th, 2017 to March 8th, 2020 for 500,000 in-game cash next to the jewelry store and has since then been replaced with the Eclaire. Even though it has been available for quite a while, it is still in high demand. At that time, jailbreak currency was much more valuable due to it being harder to receive.<br><br>Performance: Its maximum speed is the fastest but nearly impossible to achieve. The acceleration is good but poor when trying to reach its top speed. It has good off-road capability, but it cannot climb steep terrain. Its braking is pretty poor compared to everything else, mostly due to its high speeds.<br><br>Rarity: The Brulee is actually very common. Many new players tend to overestimate its rarity and don't realize that it has been available for almost 3 years!<br><br>Demand: Its demand is extremely high. Many people want this vehicle due to its performance, but others just like collecting them. The Brulee is very unique compared to other vehicles and has a special design.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005874328501506068/New_Project_49.png",
+
+        "maxspeed": "403",
+
+        "name": "Brulee",
+
+        "price": "500,000",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "10,000,000",
+
+        "valuehistory": "5600000 6000000 9000000 10000000",
+
+        "valuehistorydate": "7/12/22 7/22/22 10/26/22 10/15/22"
+
+      },
+
+      "v10": {
+
+        "demand": "Extremely High",
+
+        "description": "The Icebreaker is an unobtainable supercar. It was released December 18th 2021 as the season 7 level 10 car. It was retired January 30th 2022.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005984280691884073/New_Project_60.png",
+
+        "maxspeed": "195",
+
+        "name": "Icebreaker",
+
+        "price": "Seasonal",
+
+        "rarity": "Legendary",
+
+        "trend": "Rising",
+
+        "type": "Vehicle",
+
+        "value": "40,000,000",
+
+        "valuehistory": "2500000 3000000 4000000 4500000 5000000 6400000 9250000 9750000 10500000 12500000 13000000 12500000 13000000 13500000 15000000 15500000 16000000 17000000 17500000 18750000 19000000 19500000 20000000 22500000 22250000 22375000 23125002 24000000 24000000 24500000 24774000 25500000 27500000 28500000 29500000 30000000 30750000 31500000 32500000 35000000 37500000 40000000 45000000",
+
+        "valuehistorydate": "7/12/22 8/19/22 9/2/22 9/11/22 9/21/22 10/19/22 10/29/22 11/11/22 11/16/22 11/30/22 12/08/22 12/12/22 12/18/22 12/25/22 12/27/22 12/29/22 1/2/23 1/4/23 1/9/23 01/22/23 1/27/23 01/30/23 2/3/23 03/07/23 03/12/23 3/19/23 03/23/23 03/25/23 03/25/23 03/28/23 03/30/23 04/02/23 05/07/23 5/26/23 6/2/23 6/12/23 6/30/23 7/22/23 8/1/23 8/26/23 8/30/23 9/8/23 9/9/23"
+
+      },
+
+      "v11": {
+
+        "demand": "Medium",
+
+        "description": "The Macaron was a seasonal vehicle awarded in Season 10: Rich And Famous. It was modeled by DydyWasTaken and is  based off of the Bugatti La Voiture Noire. It has a gimmick with the spoiler which allows it to ascend and descend whilst the car is moving. This is also found on the Snake.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005984524104118422/New_Project_61.png",
+
+        "maxspeed": "250",
+
+        "name": "Macaron",
+
+        "price": "Seasonal",
+
+        "rarity": "Rare",
+
+        "trend": "Stable/Rising Slowly",
+
+        "type": "Vehicle",
+
+        "value": "3,850,000",
+
+        "valuehistory": "3000000 2969000 2169000 1900000 2000000 2800000 2300000 3500000 3300000 3000000 2500000 2600000 2500000 2650000 2675000 2708000 3000000 2875000 3000000 3300000 3400000 3500000 3500000 3750000 3900000 3850000",
+
+        "valuehistorydate": "7/12/22 7/13/22 7/18/22 7/22/22 7/27/22 9/25/22 10/3/22 10/11/22 11/10/22 11/15/22 11/24/22 11/28/22 12/27/22 1/18/23 03/11/23 03/25/23 03/28/23 03/30/23 04/06/23 04/17/23 5/29/23 6/12/23 6/12/23 6/19/23 8/30/23 9/9/23"
+
+      },
+
+      "v12": {
+
+        "demand": "Extremely Low",
+
+        "description": "The Mighty was released on May 20th 2017 pricing at 25,000 cash. It was retired on March 8th 2020.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005984719080542258/New_Project_62.png",
+
+        "maxspeed": "122",
+
+        "name": "Mighty",
+
+        "price": "25,000",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "210,000",
+
+        "valuehistory": "144000 230000 230000 210000",
+
+        "valuehistorydate": "7/12/22 02/25/23 9/8/23 9/8/23"
+
+      },
+
+      "v13": {
+
+        "demand": "Extremely Low",
+
+        "description": "The Steed is a muscle car based on the \"Mustang\". It was renamed for copyright reasons and is now retired. It was available from October 1, 2017 to March 8th, 2020, for $50,000 cash.",
+
+        "image": "https://media.discordapp.net/attachments/928286332390875136/988567062567845978/unknown.png",
+
+        "maxspeed": "122",
+
+        "name": "Steed",
+
+        "price": "50,000",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "250,000",
+
+        "valuehistory": "210000 250000",
+
+        "valuehistorydate": "7/12/22 02/25/23"
+
+      },
+
+      "v14": {
+
+        "demand": "Extremely Low",
+
+        "description": "The SUV is a now unobtainable four-seater vehicle that used to spawn in front of the Police Station at the Prison in the parking lot. It was available from March 3, 2018 to July 12, 2020, for $40,000 cash.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005985225626615890/New_Project_64.png",
+
+        "maxspeed": "125",
+
+        "name": "SUV",
+
+        "price": "40,000",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "350,000",
+
+        "valuehistory": "200000 340000 350000",
+
+        "valuehistorydate": "7/12/22 02/25/23 9/9/23"
+
+      },
+
+      "v15": {
+
+        "demand": "Extremely Low",
+
+        "description": "The Posh is a sports car based on the Porsche. It was renamed for copyright reasons and is now retired. It was available from May 13, 2017 to November 8, 2020, for $70,000 cash.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005985439368351877/New_Project_65.png",
+
+        "maxspeed": "125",
+
+        "name": "Posh",
+
+        "price": "70,000",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "375,000",
+
+        "valuehistory": "210000 375000 375000",
+
+        "valuehistorydate": "7/12/22 02/25/23 02/25/23"
+
+      },
+
+      "v16": {
+
+        "demand": "Extremely Low",
+
+        "description": "The classic is an old-fashioned vehicle that was added in the museum update. It was mostly used for a museum getaway. It was available from June 26th, 2018 to January 9th, 2022.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005985704834240625/New_Project_66.png",
+
+        "maxspeed": "95",
+
+        "name": "Classic",
+
+        "price": "50,000",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "210,000",
+
+        "valuehistory": "170000 210000",
+
+        "valuehistorydate": "7/12/22 02/25/23"
+
+      },
+
+      "v17": {
+
+        "demand": "Low",
+
+        "description": "The Volt4x4 is a limited vehicle that was given as the Season 3 Level 10 reward. It is an off-roading version of the Volt Bike. It was available from April 3, 2021, to May 30, 2021. It was also available for 499 robux.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005986048511316088/New_Project_67.png",
+
+        "maxspeed": "240",
+
+        "name": "Volt4x4",
+
+        "price": "Seasonal",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "4,000,000",
+
+        "valuehistory": "1800000 1950000 3200000 2400000 3000000 3500000 3700000 3500000 3750000 4000000",
+
+        "valuehistorydate": "7/12/22 8/8/22 9/28/22 10/4/22 10/10/22 10/31/22 11/14/22 11/26/22 12/10/22 03/05/23"
+
+      },
+
+      "v18": {
+
+        "demand": "Trash",
+
+        "description": "The Rattler is a seasonal vehicle awarded in Season 4: Epic Adventures. It has the design of a typical hot rod and was modeled by ShadowSamurai720. It also has special smoke and fire effects that emit from the front exhausts.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005986249636589609/New_Project_68.png",
+
+        "maxspeed": "170",
+
+        "name": "Rattler",
+
+        "price": "0",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "2,500,000",
+
+        "valuehistory": "1150000 1500000 2000000 1850000 1750000 2000000 2100000 2250000 2320000 2338000 2500000",
+
+        "valuehistorydate": "7/12/22 10/10/22 11/2/22 11/26/22 12/23/22 01/29/23 02/16/23 03/06/23 03/10/23 03/12/23 04/16/23"
+
+      },
+
+      "v19": {
+
+        "demand": "Very High",
+
+        "description": "The Banana Car is a seasonal vehicle won at level 10 in Season 5: Let The Memes begin. It has a decently high top speed and is one of the faster seasonal vehicles. The vehicle was modeled by ZuperPro1. It is also the third seasonal vehicle to have three sets being preceded by the JB8 and Crew Capsule.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005986511335981066/unknown.png",
+
+        "maxspeed": "255",
+
+        "name": "Banana Car",
+
+        "price": "0",
+
+        "rarity": "Ultra Rare",
+
+        "trend": "Rising",
+
+        "type": "Vehicle",
+
+        "value": "16,500,000",
+
+        "valuehistory": "2200000 2200000 2600000 2800000 3700000 3850000 4000000 4500000 5000000 5500000 5250000 5000000 5500000 6000000 7500000 7600000 7690000 7352000 7481600 7740800 7870400 8000001 10000000 10938000 11469000 12320000 13000000 14000000 14500000 14750000 15000000 15750000 16000000 16500000",
+
+        "valuehistorydate": "7/12/22 10/20/22 10/27/22 11/12/22 11/15/22 12/2/22 12/6/22 12/10/22 12/12/22 12/30/22 12/31/22 1/10/23 1/31/23 02/16/23 02/24/23 03/10/23 03/12/23 03/14/23 03/15/23 3/19/23 03/21/23 03/23/23 03/25/23 04/06/23 04/08/23 04/14/23 05/01/23 5/23/23 6/19/23 7/29/23 8/9/23 8/26/23 8/30/23 9/9/23"
+
+      },
+
+      "v2": {
+
+        "demand": "Very High",
+
+        "description": "The M12 Molten is one of the now-unobtainable vehicles in Jailbreak. The vehicle was released for a limited-time in the Town Revamp Update of October 4th, 2020, and went off-sale on October 14th, 2020, ten days after its release. It could be bought for 599,000 in-game cash. It is well known for being the first community made vehicle.<br><br>Performance: Its maximum speed is great; it ranks as the 7th fastest vehicle in jailbreak. The acceleration is good. It has excellent off-road capability and can climb hilly terrain. Its braking is great and it takes a couple seconds to stop. This vehicle is good at almost everything!<br><br>Rarity: The M12 Molten is actually pretty rare. It has only been available for 10 days and is one of the rarest vehicles.<br><br>Demand: Its demand is high. Many people want this vehicle due to its rarity, but others just like collecting them. The Molten is very special compared to other vehicles since it has a very special history.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005877931744178287/New_Project_51.png",
+
+        "maxspeed": "252",
+
+        "name": "Molten M12",
+
+        "price": "599,000",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "5,625,000",
+
+        "valuehistory": "4000000 3900000 3700000 4000000 5000000 5500000 5500000 5400000 5220000 5220000 5259000 5500000 5625000",
+
+        "valuehistorydate": "7/12/22 8/19/22 8/21/22 10/10/22 10/27/22 02/24/23 03/11/23 03/14/23 03/15/23 03/28/23 03/30/23 05/08/23 5/20/23"
+
+      },
+
+      "v20": {
+
+        "demand": "Very Low",
+
+        "description": "he Agent was available to purchase for only six days before becoming unobtainable on May 7th, 2021. It could have been bought for 600,000 in-game cash at the central intersection in Rising City. The Agent is unique for being a weaponized car, featuring a pair of missile launchers on the front fenders. They cannot be aimed, instead simply firing in the direction the car is facing. They deal a maximum of 25 damage. They are weaker than other vehicle missiles but still relatively effective for killing players.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005986803913850911/New_Project_70.png",
+
+        "maxspeed": "185",
+
+        "name": "Agent",
+
+        "price": "600,000",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "2,500,000",
+
+        "valuehistory": "600000 2100000 2400000 2200000 2000000 2250000 2500000",
+
+        "valuehistorydate": "7/12/22 7/27/22 8/10/22 12/7/22 12/23/22 03/28/23 05/07/23"
+
+      },
+
+      "v21": {
+
+        "demand": "Low",
+
+        "description": "The Arachnid was released on December 22nd 2018 as the season 1 level 30 and season 2 level 5 vehicle. It was retired November 3rd 2019.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005987002279268393/New_Project_71.png",
+
+        "maxspeed": "230",
+
+        "name": "Arachnid",
+
+        "price": "750,000",
+
+        "rarity": "Legendary",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "35,000,000",
+
+        "valuehistory": "13500000 16000000 24000000 29000000 35000000 38000000 45000000 46875000 42500000 42500000 40000000",
+
+        "valuehistorydate": "7/12/22 7/22/22 9/21/22 10/07/22 11/4/22 11/14/22 11/15/22 04/14/23 04/15/23 04/17/23 8/26/23"
+
+      },
+
+      "v22": {
+
+        "demand": "Very Low",
+
+        "description": "The Jackrabbit was released on April 9th 2022 as the season 9 level 8 vehicle. It was retired May 31st 2022.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005987264536510524/New_Project_72.png",
+
+        "maxspeed": "150",
+
+        "name": "JackRabbit",
+
+        "price": "Seasonal",
+
+        "rarity": "Uncommon",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "850,000",
+
+        "valuehistory": "900000 950000 500000 700000 650000 850000 865000 850000",
+
+        "valuehistorydate": "7/12/22 7/21/22 10/20/22 10/25/22 1/4/23 03/07/23 03/12/23 5/26/23"
+
+      },
+
+      "v23": {
+
+        "demand": "High",
+
+        "description": "The Celsior was released on February 4th 2022 as the season 8 level 10 vehicle. It was retired March 27th 2022.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005987650798362695/New_Project_74.png",
+
+        "maxspeed": "114",
+
+        "name": "Celsior",
+
+        "price": "Seasonal",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "22,500,000",
+
+        "valuehistory": "2300000 2400000 2530000 2650000 2700000 3000000 3400000 4500000 5000000 5600000 5600000 6000000 7500000 8000000 8500000 8750000 9250000 9500000 9750000 10000000 10250000 10750000 11000000 11250000 11500000 12000000 13000000 13500000 14000000 14050000 14070000 14156000 14293600 14294240 14322029 14358000 14500000 14750000 15000000 16250000 16375000 18500000 19500000 20000000 22500000",
+
+        "valuehistorydate": "7/12/22 7/13/22 7/15/22 7/23/22 7/31/22 8/4/22 9/11/22 9/21/22 9/22/22 10/19/22 10/19/22 11/7/22 11/12/22 11/27/22 12/7/22 12/9/22 12/13/22 12/18/22 12/25/22 12/27/22 12/29/22 1/2/23 1/10/23 1/18/23 01/21/23 01/27/23 02/04/23 02/13/23 03/05/23 03/10/23 03/12/23 03/13/23 03/14/23 03/17/23 03/23/23 03/25/23 03/29/23 03/30/23 04/04/23 04/08/23 04/15/23 04/27/23 05/07/23 05/08/23 8/23/23"
+
+      },
+
+      "v24": {
+
+        "demand": "Medium/High",
+
+        "description": "The Raptor was released on June 23rd 2019 as the season 3 level 30 vehicle. It was retired November 3rd 2019.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005987489170858114/New_Project_73.png",
+
+        "maxspeed": "160",
+
+        "name": "Raptor",
+
+        "price": "150,000",
+
+        "rarity": "Ultra Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "15,000,000",
+
+        "valuehistory": "4200000 5000000 7400000 7500000 7750000 8000000 9250000 10000000 11000000 11250000 11100000 12500000 13750000 14500000 15000000",
+
+        "valuehistorydate": "7/12/22 7/23/22 10/31/22 11/25/22 11/28/22 12/01/22 2/4/23 2/9/34 02/13/23 03/07/23 03/12/23 03/25/23 04/08/23 05/08/23 9/1/23"
+
+      },
+
+      "v25": {
+
+        "demand": "Very Low",
+
+        "description": "The Crew Capsule was released as the season 2 level 10 vehicle on February 6th 2021. It was retired March 21st 2021.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005987851302883388/New_Project_75.png",
+
+        "maxspeed": "90",
+
+        "name": "Crew Capsule",
+
+        "price": "Seasonal",
+
+        "rarity": "Ultra Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "14,000,000",
+
+        "valuehistory": "1960000 3000000 3900000 4200000 5000000 5500000 6500000 7000000 7500000 8000000 8270000 8343000 8358700 8422830 9000001 10000000 10000000 10500000 11500000 12500000 12800000 13000000 13750000 13750000 14000000 14250000 14000000",
+
+        "valuehistorydate": "7/12/22 9/10/22 10/27/22 11/2/22 11/16/22 12/5/22 12/12/22 12/18/22 01/29/23 03/08/23 03/10/23 03/11/23 03/12/23 03/17/23 03/23/23 03/25/23 03/25/23 04/04/23 04/06/23 04/11/23 04/14/23 05/01/23 5/23/23 5/24/23 6/20/23 7/12/23 9/3/23"
+
+      },
+
+      "v26": {
+
+        "demand": "Low",
+
+        "description": "The Snake was on sale on a pedestal in front of the 1M Dealership for $649,000. It was available for 7 days. The only way to obtain the car now is via trading. Owners of the Snake could not trade it away until it went off-sale.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005988056970559570/New_Project_76.png",
+
+        "maxspeed": "236",
+
+        "name": "Snake",
+
+        "price": "0",
+
+        "rarity": "Uncommon",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "1,500,000",
+
+        "valuehistory": "800000 960000 1100000 1300000 1500000 1200000 1100000 1000000 1100000 1250000 1350000 1400000 1450000 1500000",
+
+        "valuehistorydate": "7/15/22 7/16/22 7/21/22 11/8/22 11/28/22 12/23/22 01/02/23 01/30/23 02/11/23 03/04/23 04/11/23 7/1/23 7/6/23 8/17/23"
+
+      },
+
+      "v27": {
+
+        "demand": "Low",
+
+        "description": "The Shell Classic is a safe-exclusive vehicle in Jailbreak, and came out along with the safe update. It is only purchasable in Tier 5/Legendary safes, which can be bought for $100,000. The only other way to obtain this vehicle is via trading.",
+
+        "image": "https://media.discordapp.net/attachments/1013818378995114036/1014016114461769798/New_Project_80.png",
+
+        "maxspeed": "177",
+
+        "name": "Shell Classic",
+
+        "price": "100,000",
+
+        "rarity": "Uncommon",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "850,000",
+
+        "valuehistory": "1500000 1400000 1000000 1500000 1300000 1100000 900000 800000 850000 865000 873500 850000 900000 850000",
+
+        "valuehistorydate": "8/29/22 9/12/22 9/14/22 10/25/22 11/9/22 11/19/22 11/29/22 1/3/23 03/07/23 03/10/23 03/11/23 5/14/23 6/30/23 7/19/23"
+
+      },
+
+      "v28": {
+
+        "demand": "Medium",
+
+        "description": "The Tiny Toy is a seasonal vehicle in Jailbreak. It is featured as one of the two vehicle prizes for Season 11: Toys and Collectibles. The Tiny Toy can be obtained by reaching Level 8  by doing contracts during Season 11.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1019677671740952676/BabyCamaroTempPageList.webp",
+
+        "maxspeed": "118",
+
+        "name": "Tiny Toy",
+
+        "price": "Seasonal",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "1,250,000",
+
+        "valuehistory": "750000 600000 750000 700000 600000 700000 800000 833000 850000 900000 1000000 1250000",
+
+        "valuehistorydate": "9/14/22 10/07/22 11/8/22 12/7/22 01/03/23 02/25/23 03/06/23 03/25/23 5/14/23 5/23/23 6/27/23 7/22/23"
+
+      },
+
+      "v29": {
+
+        "demand": "Low",
+
+        "description": "The Bloxy is a seasonal vehicle in Jailbreak as the level 10 prize. It can be obtained by doing contracts in season 11: toys and collectibles. It can be seen at a season stage podium along with the toy car.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1022902979336093696/unknown.png",
+
+        "maxspeed": "177",
+
+        "name": "Bloxy",
+
+        "price": "Seasonal",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "1,250,000",
+
+        "valuehistory": "2200000 1800000 1450000 1400000 1350000 1300000 1250000",
+
+        "valuehistorydate": "9/23/22 9/25/22 10/07/22 12/8/22 12/13/22 1/2/23 01/27/23"
+
+      },
+
+      "v3": {
+
+        "demand": "Super High",
+
+        "description": "The Beignet was a seasonal vehicle in Jailbreak made by RallySubbie and was featured as the grand prize in Season 6: Race to the Top. It is currently the third fastest vehicle in the game. The Beignet could have been obtained by reaching Level 10 through Contracts. It has a 500,000 value in the garage (for sorting purposes). It could have been found at the Season Arena during Season 6. The Beignet can be described as an Eclaire with a better grip; its launch and acceleration rates are practically equal, but the Beignet will get ahead since it loses less speed in corners.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005881606688485406/New_Project_52.png",
+
+        "maxspeed": "277",
+
+        "name": "Beignet",
+
+        "price": "Seasonal",
+
+        "rarity": "Uncommon",
+
+        "trend": "Rising",
+
+        "type": "Vehicle",
+
+        "value": "25,650,000",
+
+        "valuehistory": "4200000 4100000 4300000 6000000 6600000 6200000 9600000 6000000 9000000 9250000 9500000 10500000 11000000 11250000 12500000 13000000 13500000 14000000 14000000 14250000 14300000 15110000 14949000 15000000 16250000 17500000 18750000 22500000 25000000 25650000",
+
+        "valuehistorydate": "7/12/22 7/14/22 7/21/22 9/19/22 10/08/22 10/19/22 10/27/22 11/01/22 11/01/22 11/7/22 11/12/22 11/16/22 11/24/22 11/24/22 11/27/22 1/21/23 02/11/23 03/05/23 03/05/23 03/10/23 03/12/23 03/12/23 03/17/23 3/29/23 03/30/23 04/06/23 04/11/23 04/27/23 8/23/23 9/9/23"
+
+      },
+
+      "v30": {
+
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/zxXfCK9/Javelin-Main.png",
+
+        "maxspeed": "373",
+
+        "name": "Javelin",
+
+        "price": "929,929",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "12,500,000",
+
+        "valuehistory": "4800000 6000000 5350000 5100000 5000000 5250000 6000000 6250000 6500000 7500000 7000000 7500000 8500000 10000000 12500000 13000000 12000000 12500000 12500000 12000000 11000000 11750000 12000000 11500000 11250000 12000000 12500000",
+
+        "valuehistorydate": "11/20/22 11/22/22 11/25/22 12/1/22 12/8/22 12/30/22 12/31/22 1/20/23 01/29/23 2/3/23 2/6/23 02/09/23 02/16/23 02/18/23 02/20/23 02/24/23 03/02/23 03/07/23 03/17/23 04/08/23 04/11/23 04/14/23 04/17/23 5/14/23 5/26/23 6/12/23 8/30/23"
+
+      },
+
+      "v31": {
+
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1055175163303444510/latest.png",
+
+        "maxspeed": "185",
+
+        "name": "Goliath",
+
+        "price": "Seasonal",
+
+        "rarity": "Uncommon",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "2,625,000",
+
+        "valuehistory": "2500000 2300000 2100000 2500000 2625000",
+
+        "valuehistorydate": "12/21/22 12/23/22 12/28/22 02/17/23 6/24/23"
+
+      },
+
+      "v32": {
+
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1055176573612990524/the-bandit-season-13-submission-v0-9lt1ln7drp0a1-transformed.webp",
+
+        "maxspeed": "197",
+
+        "name": "Bandit",
+
+        "price": "Seasonal",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "2,500,000",
+
+        "valuehistory": "2400000 2500000",
+
+        "valuehistorydate": "01/31/23 02/09/23"
+
+      },
+
+      "v33": {
+
+        "demand": "Medium/High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/2qrvSQq/Parisian-icon-updated.png",
+
+        "maxspeed": "317",
+
+        "name": "Parisian",
+
+        "price": "720,000",
+
+        "rarity": "Uncommon",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "3,000,000",
+
+        "valuehistory": "3750000 3760000 3884000 3845600 3778240 3780240 3782216 3471780.4 2528220 3028000 3000000 2850000 2675000 2500000 2650000 2800000 3000000",
+
+        "valuehistorydate": "03/03/23 03/10/23 03/11/23 03/12/23 03/12/23 03/13/23 03/17/23 03/23/23 03/24/23 03/25/23 03/30/23 04/08/23 04/11/23 05/07/23 6/28/23 7/5/23 8/5/23"
+
+      },
+
+      "v34": {
+
+        "demand": "Very High",
+
+        "description": "",
+
+        "image": "https://media.discordapp.net/attachments/1083921548768972930/1087586864082472970/proto-08.png?width=2520&height=1124",
+
+        "maxspeed": "208",
+
+        "name": "Proto 08",
+
+        "price": "Seasonal",
+
+        "rarity": "Uncommon",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "12,500,000",
+
+        "valuehistory": " 3750000 4000000 4500000 5000000 5250000 5500000 6000000 10000000 12000000 12500000",
+
+        "valuehistorydate": " 05/07/23 5/23/23 6/13/23 6/19/23 6/23/23 6/25/23 7/1/23 7/7/23 7/18/23 9/7/23"
+
+      },
+
+      "v36": {
+
+        "demand": "Medium/High",
+
+        "description": "Shogun is an unobtainable vehicle that was given to players once they reached Level 10 of Season 15 - Drift to Japan. It resembles a heavily modified Mazda RX-7 FD, which is a Japanese Domestic Market (JDM) car known for modifications, tuning, and drifting. Shogun's first appearance showcases a typical JDM vehicle, but with extensive modifications. Its engine is exposed, and it features three flame-spitting exhausts. The vehicle has a custom-made Japanese-like texture that cannot be removed, featuring dragons and other mythical creatures wrapping around the Shogun. The windows are adorned with small stickers to further enhance the customization of the Shogun. With a capacity of 2 passengers, above-average launch capabilities, and a top speed comparable to the Proto-8, this vehicle, described by Badimo themselves, is a \"menacing, quad-rotor, untamed drifting beast.",
+
+        "image": "https://i.ibb.co/TYPnqQM/Shoguns-thumbnail-1.png",
+
+        "maxspeed": "210",
+
+        "name": "Shogun",
+
+        "rarity": "Medium",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "2,800,000",
+
+        "valuehistory": "2500000 2600000 2800000 2800000",
+
+        "valuehistorydate": "6/20/23 7/18/23 8/12/23 8/17/23"
+
+      },
+
+      "v4": {
+
+        "demand": "Very Low",
+
+        "description": "The Torpedo is an unobtainable hypercar in Jailbreak. Added in the 2018 Winter Update, it has the second-highest top speed in-game, after that of the Brulee. The Torpedo costed 750,000 cash and required either Level 30 in Season 1 or Level 5 in Season 2, both on the Criminal team, for players to obtain it. However, it could also be obtained from a loophole in Season 3. The loophole was fixed on November 3rd, 2019 after Season 4 began, making it fully unobtainable along with the other seasonal vehicles.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005982359545454623/New_Project_53.png",
+
+        "maxspeed": "378",
+
+        "name": "Torpedo",
+
+        "price": "750,000",
+
+        "rarity": "Rare",
+
+        "trend": "Falling",
+
+        "type": "Vehicle",
+
+        "value": "46,000,000",
+
+        "valuehistory": "24200000 24100000 24300000 23900000 25000000 31000000 33000000 40000000 60000000 55000000 65000000 65000000 64500000 64300000 64580000 64664000 62099000 60000000 57500000 55000000 52500000 46000000",
+
+        "valuehistorydate": "7/12/22 7/13/22 7/14/22 7/18/22 8/2/22 8/3/22 8/7/22 10/08/22 10/29/22 11/11/22 11/15/22 03/10/23 03/11/23 03/12/23 03/12/23 03/25/23 04/11/23 05/07/23 7/18/23 8/26/23 8/30/23 9/9/23"
+
+      },
+
+      "v5": {
+
+        "demand": "Low",
+
+        "description": "The JB8 is a limited edition supercar from Jailbreak. Its performance isn't the greatest, but its rarity beats that. It was obtained by reaching level 30 on the criminal team in (OG) season 3.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005982679675719861/New_Project_54.png",
+
+        "maxspeed": "190",
+
+        "name": "JB8",
+
+        "price": "200,000",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "7,500,000",
+
+        "valuehistory": "5100000 5300889 5600000 5600000 7900000 7300000 8000000 7500000 7250001 7749999 7500000",
+
+        "valuehistorydate": "7/12/22 7/24/22 10/07/22 10/07/22 10/29/22 11/7/22 11/16/22 11/22/22 03/23/23 03/24/23 03/25/23"
+
+      },
+
+      "v6": {
+
+        "demand": "Medium",
+
+        "description": "The Air Tail is a limited edition supercar from Jailbreak. It was available for 600,000 cash from March 6th, 2021 to January 9th, 2022. It is well known for being one of the only super cars with 3 seats!<br><br>Performance: The air tails performance is very similar to the M12 Molten. It ranks as the 7th fastest vehicle in jailbreak tied with the M12 Molten. Its acceleration is great and reaches its top speed in 34-36 seconds. It has excellent off-road capability but is a bit worse then the M12 Molten. Its braking is great and it takes a couple seconds to stop. This vehicle is good at almost everything!<br><br>Rarity: The air tail is pretty common as it was available for almost a year, though lots of people didn't purchase it due to its terrible spawn location.<br><br>Demand: Its demand is pretty high. It's pretty easy to find and is easy to trade for.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005983018403512510/New_Project_56.png",
+
+        "maxspeed": "240",
+
+        "name": "Airtail",
+
+        "price": "600,000",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "1,500,000",
+
+        "valuehistory": "1275000 1300000 2000000 1850000 1700000 1400000 1500000 1400000 1350000 1500000",
+
+        "valuehistorydate": "7/12/22 7/30/22 10/18/22 11/17/22 11/22/22 12/10/22 12/20/22 1/3/23 01/30/23 03/05/23"
+
+      },
+
+      "v7": {
+
+        "demand": "Medium",
+
+        "description": "The Torero is a limited-time vehicle in Jailbreak pricing at 599,000 cash. It was added on September 3rd, 2021 and became unobtainable on September 12th 2021.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005983329344049172/New_Project_57.png",
+
+        "maxspeed": "200",
+
+        "name": "Torero",
+
+        "price": "599,000",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "2,625,000",
+
+        "valuehistory": "2000000 2500000 2600000 3200000 3000000 2800000 265000 2500000 2600000 2500000 2535000 2650000 2700000 2750000 2625000",
+
+        "valuehistorydate": "7/12/22 8/8/22 9/21/22 10/08/22 10/23/22 11/12/22 11/22/22 11/24/22 11/28/22 12/27/22 03/14/23 04/11/23 04/15/23 05/08/23 9/3/23"
+
+      },
+
+      "v8": {
+
+        "demand": "High",
+
+        "description": "The Beam Hybrid is a supercar. It was free to obtain at level 10 in season 1. It was released December 20th 2020 and became unobtainable on January 31st 2021.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005983602728779946/New_Project_58.png",
+
+        "maxspeed": "185",
+
+        "name": "Beam Hybird",
+
+        "price": "Seasonal",
+
+        "rarity": "Legendary",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "50,000,000",
+
+        "valuehistory": "9000000 12000000 14000000 18000000 24000000 36000000 31500000 37000000 40000000 42000000 42500000 44000000 45000000 50000000 52500000 55000000 57500000 54000000 50000000 50500000 51100000 52000000 50000000",
+
+        "valuehistorydate": "7/12/22 7/21/22 8/9/22 9/7/22 10/07/22 10/29/22 11/4/22 11/15/22 11/26/22 12/09/22 12/23/22 01/03/23 1/4/23 01/15/23 01/22/23 1/25/23 01/30/23 2/4/23 2/4/23 03/13/23 03/14/23 03/23/23 03/25/23"
+
+      },
+
+      "v9": {
+
+        "demand": "Very Low",
+
+        "description": "The Megalodon is an unobtainable supercar. It was released on December 23rd 2017 for 300,000 cash and retired on July 12th 2020.",
+
+        "image": "https://media.discordapp.net/attachments/1005873955632066590/1005984033756422254/New_Project_59.png",
+
+        "maxspeed": "198",
+
+        "name": "Megalodon",
+
+        "price": "300,000",
+
+        "rarity": "Uncommon",
+
+        "trend": "Stable",
+
+        "type": "Vehicle",
+
+        "value": "800,000",
+
+        "valuehistory": "900000 1000000 800000 850000 840000 800000",
+
+        "valuehistorydate": "7/12/22 11/14/22 12/25/22 03/07/23 03/17/23 05/10/23"
+
+      }
+
+    },
+
+    "hyperchromes": {
+
+      "orange1": {
+        "demand": "Very Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/Yt83Vx8/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperOrange Lv1",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "800,000",
+
+        "valuehistory": "800000",
+
+        "valuehistorydate": "9/9/23"
+      },
+
+      "orange2": {
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/Ryd0pgx/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperOrange Lv2",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "1,000,000",
+
+        "valuehistory": "1000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+
+      "orange3": {
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/Jt23Pxc/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperOrange Lv3",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "9,250,000",
+
+        "valuehistory": "9250000",
+
+        "valuehistorydate": "9/9/23"
+      },
+
+      "orange4": {
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/6Jdgf3Y/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperOrange Lv4",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "42,500,000",
+
+        "valuehistory": "42500000",
+
+        "valuehistorydate": "9/9/23"
+      },
+
+      "orange5": {
+        "demand": "High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/b25QJh6/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperOrange Lv5",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "75,625,000",
+
+        "valuehistory": "75625000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "blue1": {
+        "demand": "Low/Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/YkvZGHc/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperBlue Lv1",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "800,000",
+
+        "valuehistory": "800000",
+
+        "valuehistorydate": "9/9/23"
+      },
+
+      "blue2": {
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/JxHrRHn/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperBlue Lv2",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "3,500,000",
+
+        "valuehistory": "3500000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      "blue3": {
+        "demand": "Medium/High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/3MV2nhF/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperBlue Lv3",
+
+        "price": "N/A",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "35,000,000",
+
+        "valuehistory": "35000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      "blue4": {
+        "demand": "Very High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/RC78XDJ/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperBlue Lv4",
+
+        "price": "N/A",
+
+        "rarity": "Very Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "120,000,000",
+
+        "valuehistory": "120000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      "blue5": {
+        "demand": "Crazy High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/sqJYhrX/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperBlue Lv5",
+
+        "price": "N/A",
+
+        "rarity": "Extremely Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "240,000,000",
+
+        "valuehistory": "240000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      "diamond1": {
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/QbcH2yW/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperDiamond Lv1",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "800,000",
+
+        "valuehistory": "800000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "diamond2": {
+        "demand": "Medium/Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/dtgybgg/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperDiamond Lv2",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "1,500,000",
+
+        "valuehistory": "1500000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "diamond3": {
+        "demand": "Medium/High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/FsW34vY/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperDiamond Lv3",
+
+        "price": "N/A",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "15,000,000",
+
+        "valuehistory": "15000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "diamond4": {
+        "demand": "Medium/High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/wL6mmC0/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperDiamond Lv4",
+
+        "price": "N/A",
+
+        "rarity": "Very Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "62,500,000",
+
+        "valuehistory": "62500000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "diamond5": {
+        "demand": "Very High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/pnhxyW6/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperDiamond Lv5",
+
+        "price": "N/A",
+
+        "rarity": "Super Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "120,000,000",
+
+        "valuehistory": "120000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "green1": {
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/pW0rRnR/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperGreen Lv1",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "800,000",
+
+        "valuehistory": "800000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "green2": {
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/jHtT2g7/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperGreen Lv2",
+
+        "price": "N/A",
+
+        "rarity": "Common/Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "3,000,000",
+
+        "valuehistory": "3000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "green3": {
+        "demand": "Medium/High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/YNq8qdT/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperGreen Lv",
+
+        "price": "N/A",
+
+        "rarity": "Very Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchromes",
+
+        "value": "30,000,000",
+
+        "valuehistory": "30000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "green4": {
+        "demand": "High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/M69JmLr/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperGreen Lv4",
+
+        "price": "N/A",
+
+        "rarity": "Super Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "100,000,000",
+
+        "valuehistory": "100000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "green5": {
+        "demand": "Super High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/5rH0zjs/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperGreen Lv5",
+
+        "price": "N/A",
+
+        "rarity": "Extremely Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "215,000,000",
+
+        "valuehistory": "215000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "pink1": {
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/h9TwLh3/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPink Lv1",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "800,000",
+
+        "valuehistory": "800000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "pink2": {
+        "demand": "Medium/Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/KX7MV2p/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPink Lv2",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "1,750,000",
+
+        "valuehistory": "1750000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "pink3": {
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/D9ph9mV/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPink Lv3",
+
+        "price": "N/A",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "17,500,000",
+
+        "valuehistory": "17500000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "pink4": {
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/qRHTCSM/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPink Lv4",
+
+        "price": "N/A",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "65,000,000",
+
+        "valuehistory": "65000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "pink5": {
+        "demand": "High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/g7Y5dwB/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPink Lv5",
+
+        "price": "N/A",
+
+        "rarity": "Extremely Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "140,000,000",
+
+        "valuehistory": "140000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "purple1": {
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/RpRRvQp/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPurple Lv1",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "75,625,000",
+
+        "valuehistory": "75625000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "purple2": {
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/MZMLs4z/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPurple Lv2",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "1,400,000",
+
+        "valuehistory": "1400000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "purple3": {
+        "demand": "High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/DY916q1/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPurple Lv3",
+
+        "price": "N/A",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "14,000,000",
+
+        "valuehistory": "14000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "purple4": {
+        "demand": "Super High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/7tJKXXx/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPurple Lv4",
+
+        "price": "N/A",
+
+        "rarity": "Super Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "60,000,000",
+
+        "valuehistory": "60000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "purple5": {
+        "demand": "Extremely High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/6WHYTWs/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperPurple Lv5",
+
+        "price": "N/A",
+
+        "rarity": "Extremely Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "102,500,000",
+
+        "valuehistory": "102500000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "yellow1": {
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/8NCPpVz/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperYellow Lv1",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "800,000",
+
+        "valuehistory": "800000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "yellow2": {
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/dG8wMZw/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperYellow Lv2",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "1,000,000",
+
+        "valuehistory": "1000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "yellow3": {
+        "demand": "High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/w7DTDzs/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperYellow Lv3",
+
+        "price": "N/A",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "7,000,000",
+
+        "valuehistory": "7000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "yellow4": {
+        "demand": "Super High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/42Htm5g/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperYellow Lv4",
+
+        "price": "N/A",
+
+        "rarity": "Very Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "35,000,000",
+
+        "valuehistory": "35000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      "yellow5": {
+        "demand": "Extremely High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/jf8jbnN/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperYellow Lv5",
+
+        "price": "N/A",
+
+        "rarity": "Extremely Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "65,500,000",
+
+        "valuehistory": "65,500,000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      
+      
+      "red1": {
+        "demand": "Low",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/x12xwk5/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperRed Lv1",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "800,000",
+
+        "valuehistory": "800000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "red2": {
+        "demand": "Medium",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/XpSbj1C/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperRed Lv2",
+
+        "price": "N/A",
+
+        "rarity": "Common",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "3,250,000",
+
+        "valuehistory": "3250000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "red3": {
+        "demand": "High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/jkn1FvV/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperRed Lv3",
+
+        "price": "N/A",
+
+        "rarity": "Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "32,500,000",
+
+        "valuehistory": "32500000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "red4": {
+        "demand": "Super High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/tMVWGSH/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperRed Lv4",
+
+        "price": "N/A",
+
+        "rarity": "Super Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "110,000,000",
+
+        "valuehistory": "110000000",
+
+        "valuehistorydate": "9/9/23"
+      },
+      
+      "red5": {
+        "demand": "Extremely High",
+
+        "description": "",
+
+        "image": "https://i.ibb.co/gdHZnR7/image.png",
+
+        "maxspeed": "N/A",
+
+        "name": "HyperRed Lv5",
+
+        "price": "N/A",
+
+        "rarity": "Extremely Rare",
+
+        "trend": "Stable",
+
+        "type": "Hyperchrome",
+
+        "value": "225,000,000",
+
+        "valuehistory": "225000000",
+
+        "valuehistorydate": "9/9/23"
+      }
+    }
+
+  }
